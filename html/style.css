@@ -212,7 +212,7 @@ ul{
 	display:block;
 	background:url(images/icon1.gif) 0 0 no-repeat;
 	padding:0 0 14px 22px;
-	font:bold 13px/13px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font:bold 150px/150px "Trebuchet MS", Arial, Helvetica, sans-serif;
 	color:#DBBB0D;
 	background-color:inherit;
 }
@@ -223,7 +223,7 @@ ul{
 	padding:0 0 0 14px;
 	color:#E5E5E5;
 	background-color:inherit;
-	font-size:9px;
+	font-size:150px;
 	line-height:17px;
 	text-decoration:none;
 	margin:11px 0 0 201px;
@@ -235,7 +235,7 @@ ul{
 }
 #left h2{
 	display:block;
-	font:bold 50px/50px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font:bold 50px/150px "Trebuchet MS", Arial, Helvetica, sans-serif;
 	color:#fff;
 	background-color:inherit;
 	padding:0 0 9px 0;
